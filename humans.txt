@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <Bello Raafi> -- <Quality Assurance> -- <@bellsraafi>
+    Bello Raafi -- Quality Assurance -- @bellsraafi
     
 # THANKS
 
-    <name>
+    Thanks to all my course mates.
 
 # TECHNOLOGY COLOPHON
 
