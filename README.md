@@ -6,5 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-### Copyright
+### How to contribute
+Please fork this repository and issue a Pull requests for review
+
+#### Copyright
 2018 Git. Training
